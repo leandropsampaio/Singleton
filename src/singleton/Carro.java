@@ -4,6 +4,7 @@ package singleton;
  *
  * @author Leandro Pereira Sampaio
  */
+
 public class Carro {
 
     private static Carro instancia;
